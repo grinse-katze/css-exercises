@@ -1,0 +1,19 @@
+.some-class {
+    background-color: rgb(228, 138, 138);
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+.uncool {
+    font-size: 24px;
+}
+
+#id {
+    color: blue;
+    font-size: 36px;
+}
+
+#another-id {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
